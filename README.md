@@ -3,7 +3,8 @@
 ## Overview
 
 This project focuses on visualizing data using Power BI and Python to determine selection criteria and calculate a performance score for sellers. The performance score was designed to evaluate sellers based on various factors including product ratings, negative seller ratings, and the number of seller brands.
-
+## Visualization
+![Performance Score Visualization](Img.png)
 ## Selection Criteria
 
 The selection criteria for evaluating seller performance is calculated as follows:
